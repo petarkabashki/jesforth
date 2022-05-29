@@ -1,0 +1,14 @@
+{
+  "name": "jesforth613",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Petar Kabashki <peter.kabashky@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "debug": "node --inspect index.js"
+  },
+  "dependencies": {
+    "split": "^1.0.1"
+  }
+}
